@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JaumeSol
 - 👀 I’m interested in learning code (Javascript, Nodejs, Pyton, R)
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ghost themes
+- 🌱 I’m currently learning Python
 
 
 <!---
